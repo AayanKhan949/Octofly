@@ -11,6 +11,13 @@ It is ultimately a drone that has multi joint limbs named Octolimb. Like ordinar
 How It works?
 In human fingers we know that we can fold nd release it by the contraction and relaxation of nerves that pulls or releases the muscles as per need, in the similar way in Octolimb we use multi joint different sizer parts with a symetrical shape that acts like the bones for the robolimb(even tho octopuslimbs doesn't have bones in their limbs :(. ) On he tip of each octolimb there would be a pressure sensor that would determine how much would be the limb closed or opened so that there is no extreme pressure on motors and woiuld lead to healthy motor life.But this grabbing of objects would lead to a unbalance in the drone and shift of CoG(Center of Gravity). To overcome this there would be gyro sensors that would regulate the power of each bldc motors that would keep the drone balanced. Like if the weight gets transfered on the front then the front bldc motors would work with more power creating a balanced flight.
 
+Why is it made?
+
+It is ultimately made ass a defence bot of rescue bot.
+For rescue:- It can be used to send materials o objects that are needy for the survivors with a better grip that any other robot.
+For defence- It can be used to collect confidential data from enemy bases without human involvement in enemy bases. As it collects object from multiple directions so it would bring objects with better grip.
+
+
 Materials required? (For drone)
 FlySkyi6 (for drone)
 BLDC motors(for drone)
